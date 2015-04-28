@@ -1,0 +1,2 @@
+1	Kowalska	Anna	22	11	56	Ul.Krotka12	Wroclaw
+2	Kowalski	Jan	10	12	89	Ul.Dloga12	Tychy
